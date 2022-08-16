@@ -1,4 +1,4 @@
-# To-Do-React
+# Weather-App-React
 
 ## [Test this app yourself](https://luciapannunzio.github.io/Weather-App-React/)
 
