@@ -2,6 +2,9 @@
 
 ## [Test this app yourself](https://luciapannunzio.github.io/Weather-App-React/)
 
+![Screenshot from 2022-08-16 11-20-53](https://user-images.githubusercontent.com/89199990/184844982-fd7da086-118b-4738-b35f-22f3562434ad.png)
+
+
 
 
 
@@ -38,8 +41,7 @@
 
 **About Project**
  - Description
-*WEATHER APP* - A webpage using React, to create a Weather Application.![Screenshot from 2022-08-16 11-20-53](https://user-images.githubusercontent.com/89199990/184844982-fd7da086-118b-4738-b35f-22f3562434ad.png)
-
+*WEATHER APP* - A webpage using React, to create a Weather Application.
 
 
 * * *
