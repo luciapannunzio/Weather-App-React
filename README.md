@@ -57,6 +57,7 @@
  - [ ] Bootstrap
  - [ ] npm
  - [ ] Dom
+ - [x] Axios
  
  
  * * *
