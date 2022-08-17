@@ -2,7 +2,8 @@
 
 ## [Test this app yourself](https://weather-app-lp.vercel.app/)
 
-![Screenshot from 2022-08-16 11-20-53](https://user-images.githubusercontent.com/89199990/184844982-fd7da086-118b-4738-b35f-22f3562434ad.png)
+![Screenshot from 2022-08-17 15-19-05](https://user-images.githubusercontent.com/89199990/185144426-93cb6354-d66e-4236-91a1-b81c51054b2d.png)
+
 
 
 
